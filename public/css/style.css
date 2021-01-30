@@ -15,22 +15,22 @@
     margin-right: 10%;
 }
 .nav-link{
-    color: black;
+    color: rgb(97, 93, 93);
 }
 .nav-link:hover{
-    color: white;
+    color:black;
 }
 
 .navbar-text{
     margin-right: 0px;
 }
 .navbar-text:hover{
-    color: white;
+    color: black;
 }
 nav{
-    background-color: white;
-    color:black;
-    border-bottom: 1px solid black;
+    background-color:#E4D4C8;
+    color:rgb(97, 93, 93);
+    /*border-bottom: 1px solid black;*/
 }
 
 .d-block.w-100{
